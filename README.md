@@ -20,7 +20,7 @@
     * Make users download install.sh
     * Make them install SynopsX
     * Make them run SynopsX
-    * Make them access and query the document through XQuery.
+    * Make them access and query the document through REST.
   3. Pedagogic project installation
    Make them install the pedagogic project (the downgraded version of the exemple project). 
       * download the code and the XML file
